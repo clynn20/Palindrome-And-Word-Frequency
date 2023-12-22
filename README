@@ -1,0 +1,9 @@
+This is a C++ program that will detect palindrome and word frequency base on the following user choices:
+    1. Palindrome Detector
+    2. Frequency of all words
+    3. Frequency of given words
+
+Use command make to compile the program.
+
+Use the below command to run the program.
+./program
